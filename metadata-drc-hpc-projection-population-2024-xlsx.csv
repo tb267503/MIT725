@@ -1,0 +1,14 @@
+Field,Label,Value
+created,Created,2024-12-17T15:28:25.982519
+description,Description,Projection de population par zone de santé pour l'année 2024. 
+format,File Format,XLSX
+download_url,Download URL,https://data.humdata.org/dataset/d1160fa9-1d58-4f96-9df5-edbff2e80895/resource/9509b41f-efb2-4305-ac43-1e735e3efc60/download/drc-hpc-projection-population-2024.xlsx
+id,Resource ID,9509b41f-efb2-4305-ac43-1e735e3efc60
+last_modified,Updated,2024-12-17T15:28:25.680060
+metadata_modified,Metadata Updated,2025-04-08T19:00:08.148972
+microdata,Microdata,False
+dataset_id,Dataset ID,d1160fa9-1d58-4f96-9df5-edbff2e80895
+resource_type,Resource Type,file.upload
+name,Resource Name,drc-hpc-projection-population-2024.xlsx
+mimetype,MIME Type,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+size,Size,597.6K
